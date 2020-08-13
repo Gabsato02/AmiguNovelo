@@ -5,6 +5,4 @@ Desenvolvimento de uma landing page para ajudar um comércio local durante a pan
 
 Projeto feito e idealizado por: 
 
-Arthur Escalera - @arthuresc
-Gabriel Sato - @Gabsato02
-Gustavo Palmeira - @Gustavo-Palmeira
+Arthur Escalera (@arthuresc), Gabriel Sato (@Gabsato02) e Gustavo Palmeira (@Gustavo-Palmeira)
